@@ -13,7 +13,7 @@ public class GettingInputs {
         String album = scanner.nextLine();
 
         System.out.print("Enter the song title: ");
-        String song_title = scanner.nextLine();
+        String songTitle = scanner.nextLine();
 
         System.out.print("Enter the artist: ");
         String artist = scanner.nextLine();
@@ -24,7 +24,7 @@ public class GettingInputs {
         System.out.println("Year Released: " + year);
         System.out.println("Genre: " + genre);
         System.out.println("Album: " + album);
-        System.out.println("Title: \"" + song_title + "\"");
+        System.out.println("Title: \"" + songTitle + "\"");
         System.out.println("Artist: " + artist);
 
         scanner.close();
