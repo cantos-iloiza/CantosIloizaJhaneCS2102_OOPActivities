@@ -24,9 +24,6 @@ public class MultiplicationTable {
             }
             System.out.println(); 
         }
-
         input.close();
-
     }
-
 }
