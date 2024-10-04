@@ -9,6 +9,7 @@ public class GetArrayMean {
         
         return(double) sum / arr.length;
     }
+	
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number of elements: ");
