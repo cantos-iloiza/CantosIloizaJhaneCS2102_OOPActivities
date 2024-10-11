@@ -51,9 +51,7 @@ public class Car {
                 sizeDescriptor = "small";
                 break;
         }
-
         return String.format("Car (%s) - P%.2f - %s", color, price, sizeDescriptor);
     }
-
 }
  
