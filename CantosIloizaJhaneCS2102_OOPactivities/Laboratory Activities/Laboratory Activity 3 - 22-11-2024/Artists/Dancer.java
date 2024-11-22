@@ -8,8 +8,8 @@ enum DanceStyle {
 class Dancer extends Artist {
     private DanceStyle danceStyle;
 
-    public Dancer(String name, int age, String specialty, DanceStyle danceStyle) {
-        super(name, age, specialty);
+    public Dancer(String name, String nationality, int age, String specialty, DanceStyle danceStyle) {
+        super(name, nationality, age, specialty);
         this.danceStyle = danceStyle;
     }
 
