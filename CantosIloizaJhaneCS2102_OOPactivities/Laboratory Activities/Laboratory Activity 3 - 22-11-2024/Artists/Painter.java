@@ -9,8 +9,8 @@ enum Medium {
 class Painter extends Artist {
     private Medium medium;
 
-    public Painter(String name, int age, String specialty, Medium medium) {
-        super(name, age, specialty);
+    public Painter(String name, String nationality, int age, String specialty, Medium medium) {
+        super(name, nationality, age, specialty);
         this.medium = medium;
     }
 
