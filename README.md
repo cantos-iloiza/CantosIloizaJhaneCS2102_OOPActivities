@@ -30,6 +30,6 @@ Welcome to my **CS2102 - Object-Oriented Programming Activities Checklist**! Thi
 - [ ] **Rooted: A Farmer's Diary**  
   [Project Repository](https://github.com/cantos-iloiza/Rooted-A-Farmer-s-Diary)
 
----
+
 
 
