@@ -8,7 +8,6 @@ public class Main {
         Shape[] shapes = { square, rectangle, triangle };
         ShapeCollection shapeCollection = new ShapeCollection(shapes);
 
-        System.out.println("");
         shapeCollection.getPropertyValues();
     }
 }
