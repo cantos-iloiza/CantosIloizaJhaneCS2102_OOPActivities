@@ -24,10 +24,10 @@ Welcome to my **CS2102 - Object-Oriented Programming Activities Checklist**! Thi
 
 ---
 
-## 🚧 Final Project
-*Still in progress!*
+## ✅ Final Project
+*Project Complete!*
 
-- [ ] **Rooted: A Farmer's Diary**  
+- [x] **Rooted: A Farmer's Diary**  
   [Project Repository](https://github.com/cantos-iloiza/Rooted-A-Farmer-s-Diary)
 
 
